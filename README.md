@@ -7,33 +7,33 @@
 
 ## 📦 国内平台采集
 
-| 项目 | 说明 | 亮点 | 状态 |
-|------|------|------|------|
-| [小红书关键词采集](https://github.com/linzhihao414/xhs-leather-crawler) | 小红书笔记关键词采集 | 改关键词即采，支持最新/最热排序，自动导出Excel | ✅ 可用 |
-| [小红书采集·图形界面版](https://github.com/linzhihao414/redbooks-xhs-crawler) | 小红书采集 GUI 版 | 图形界面、设置持久化、跨运行去重、每页自动保存 | ✅ 可用 |
-| [淘宝问大家采集](https://github.com/linzhihao414/taobao-ask-crawler) | 淘宝"问大家"内容采集 | 搜索关键词 → 采集问答内容与日期 + 商品短链接 | ✅ 可用 |
-| [BOSS直聘岗位采集](https://github.com/linzhihao414/boss-jobs-spider) | BOSS直聘岗位/公司数据采集 | 工商注册信息+成立年限+精确地址+经纬度，图形界面 | ✅ 可用 |
+| 项目 | 说明 | 亮点 |
+|------|------|------|
+| [xhs-crawler](https://github.com/linzhihao414/xhs-crawler) | 小红书笔记关键词采集 | 改关键词即采，支持最新/最热排序，自动导出Excel |
+| [xhs-crawler-gui](https://github.com/linzhihao414/xhs-crawler-gui) | 小红书采集·图形界面版 | 图形界面、设置持久化、跨运行去重、每页自动保存 |
+| [taobao-crawler](https://github.com/linzhihao414/taobao-crawler) | 淘宝"问大家"内容采集 | 搜索关键词 → 采集问答内容与日期 + 商品短链接 |
+| [boss-crawler](https://github.com/linzhihao414/boss-crawler) | BOSS直聘岗位/公司数据采集 | 工商注册信息+成立年限+精确地址+经纬度，图形界面 |
 
 ## 🌍 海外社媒线索采集
 
-| 项目 | 说明 | 亮点 | 状态 |
-|------|------|------|------|
-| [YouTube 关键词采集](https://github.com/linzhihao414/youtube-keyword-crawler) | YouTube 视频/频道关键词采集 | 按关键词挖掘内容与创作者线索 | ✅ 可用 |
-| [Facebook 主页采集](https://github.com/linzhihao414/facebook-page-crawler) | Facebook 页面/帖子线索采集 | 主页内容与互动线索采集 | ✅ 可用 |
-| [Instagram 关键词采集](https://github.com/linzhihao414/instagram-keyword-crawler) | Instagram 内容关键词采集 | 按关键词采集帖文与账号线索 | ✅ 可用 |
-| [TikTok 关键词采集](https://github.com/linzhihao414/tiktok-keyword-crawler) | TikTok 关键词内容采集 | 符合 TikTok 运营模式的线索挖掘 | ✅ 可用 |
+| 项目 | 说明 | 亮点 |
+|------|------|------|
+| [youtube-crawler](https://github.com/linzhihao414/youtube-crawler) | YouTube 视频/频道关键词采集 | 按关键词挖掘内容与创作者线索 |
+| [facebook-crawler](https://github.com/linzhihao414/facebook-crawler) | Facebook 页面/帖子线索采集 | 主页内容与互动线索采集 |
+| [instagram-crawler](https://github.com/linzhihao414/instagram-crawler) | Instagram 内容关键词采集 | 按关键词采集帖文与账号线索 |
+| [tiktok-crawler](https://github.com/linzhihao414/tiktok-crawler) | TikTok 关键词内容采集 | 符合 TikTok 运营模式的线索挖掘 |
 
 ## 🗺️ 本地商家 / 地图线索
 
-| 项目 | 说明 | 亮点 | 状态 |
-|------|------|------|------|
-| [Google Maps 商家线索采集](https://github.com/linzhihao414/google-maps-lead-crawler) | Google Maps 商家电话/信息采集 | 支持 WhatsApp、关键词自由修改、跨运行去重 | ✅ 可用 |
+| 项目 | 说明 | 亮点 |
+|------|------|------|
+| [google-maps-crawler](https://github.com/linzhihao414/google-maps-crawler) | Google Maps 商家电话/信息采集 | 支持 WhatsApp、关键词自由修改、跨运行去重 |
 
 ## 🛒 电商卖家线索
 
-| 项目 | 说明 | 亮点 | 状态 |
-|------|------|------|------|
-| [Amazon 卖家线索采集](https://github.com/linzhihao414/amazon-seller-crawler) | Amazon 卖家联系信息采集 | 按关键词采集卖家联系方式 | ✅ 可用 |
+| 项目 | 说明 | 亮点 |
+|------|------|------|
+| [amazon-crawler](https://github.com/linzhihao414/amazon-crawler) | Amazon 卖家联系信息采集 | 按关键词采集卖家联系方式 |
 
 ---
 
